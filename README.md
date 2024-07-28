@@ -1,4 +1,3 @@
-# business-bot
 # Business Assistant Bot
 
 ## Overview
